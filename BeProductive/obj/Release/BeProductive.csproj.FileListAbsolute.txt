@@ -1,0 +1,17 @@
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\bin\Release\BeProductive.exe.config
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\bin\Release\BeProductive.exe
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\bin\Release\BeProductive.pdb
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\bin\Release\MaterialSkin.dll
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\bin\Release\MetroFramework.Design.dll
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\bin\Release\MetroFramework.dll
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\bin\Release\MetroFramework.Fonts.dll
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\obj\Release\BeProductive.frmIsLogged.resources
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\obj\Release\BeProductive.frmLogin.resources
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\obj\Release\BeProductive.Properties.Resources.resources
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\obj\Release\BeProductive.csproj.GenerateResource.Cache
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\obj\Release\BeProductive.exe
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\obj\Release\BeProductive.pdb
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\bin\Release\De.TorstenMandelkow.MetroChart.dll
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\bin\Release\Newtonsoft.Json.dll
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\bin\Release\Newtonsoft.Json.xml
+C:\Users\esteban\Documents\Visual Studio 2015\Projects\BeProductive\BeProductive\obj\Release\BeProductive.frmRestore.resources
